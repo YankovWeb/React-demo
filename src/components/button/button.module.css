@@ -1,0 +1,20 @@
+.s {
+  padding: 10px 20px;
+}
+
+.m {
+  padding: 15px 30px;
+}
+
+.lg {
+  padding: 20px 40px;
+}
+
+.xl {
+  padding: 40px 80px;
+}
+
+.borderRadius {
+  border: 2px solid transparent;
+  border-radius: 20px;
+}
