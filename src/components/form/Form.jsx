@@ -14,6 +14,7 @@ const Form = (props) => {
           type={input.type}
           onChange={input.onChange}
           placeholder={input.placeholder}
+          value={input.value}
         />
       ))}
       {children}
