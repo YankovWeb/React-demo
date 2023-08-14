@@ -1,7 +1,12 @@
 import './App.css';
 
+import LoginRegister from './screens/LoginRegister';
 const App = () => {
-  return <>Hello world</>;
+  return (
+    <>
+      <LoginRegister />
+    </>
+  );
 };
 
 export default App;
